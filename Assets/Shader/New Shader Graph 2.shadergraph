@@ -497,7 +497,7 @@
     "m_Title": "New Group",
     "m_Position": {
         "x": -1244.0,
-        "y": 470.0
+        "y": 470.0000305175781
     }
 }
 
@@ -603,8 +603,8 @@
     "m_ObjectId": "0ef5952bc70141588b66f203e7686857",
     "m_Title": "New Group",
     "m_Position": {
-        "x": -1214.0001220703125,
-        "y": 823.0000610351563
+        "x": -1214.0,
+        "y": 822.9999389648438
     }
 }
 
@@ -1581,7 +1581,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Metallic",
     "m_StageCapability": 2,
-    "m_Value": 0.0,
+    "m_Value": 2.5,
     "m_DefaultValue": 0.0,
     "m_Labels": []
 }
@@ -1689,7 +1689,7 @@
     "m_Title": "New Group",
     "m_Position": {
         "x": -1095.0,
-        "y": 1.0000228881835938
+        "y": 1.0000076293945313
     }
 }
 
@@ -1875,7 +1875,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Smoothness",
     "m_StageCapability": 2,
-    "m_Value": 0.5,
+    "m_Value": 0.800000011920929,
     "m_DefaultValue": 0.5,
     "m_Labels": []
 }

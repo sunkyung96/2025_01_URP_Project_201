@@ -1758,8 +1758,8 @@
     "m_ObjectId": "394e0a5147e64be59cfa2c7c6c1f40ef",
     "m_Title": "Calculate base color with offset",
     "m_Position": {
-        "x": 247.00001525878907,
-        "y": 11.999996185302735
+        "x": 247.0,
+        "y": 12.0
     }
 }
 
@@ -3251,8 +3251,8 @@
     "m_ObjectId": "8a97410c7615486ead5556d31a0b6378",
     "m_Title": "Creete an offset on a clock",
     "m_Position": {
-        "x": -3615.00048828125,
-        "y": 995.0003051757813
+        "x": -3615.0,
+        "y": 995.0
     }
 }
 
